@@ -7,4 +7,6 @@ Out of all of these tools, I love working with Javascript, Python and Flask APIs
 ### A few of my favourite things:
 :sparkles: design (anything and everything from colour to interiors to web)<br>:art: digital illustration<br>:seedling: plants<br>:game_die: board games<br>:monkey: LucasArts' Monkey Island, and <br>:fries: french fries (this one is obvious.)
 
-#### Check out my projects!
+#### Check out my [projects](https://github.com/neha-nayeem?tab=repositories)!
+#### Connect with me on [LinkedIn](https://www.linkedin.com/in/nehanayeem/)!
+

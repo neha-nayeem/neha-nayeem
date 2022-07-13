@@ -1,6 +1,6 @@
 # Hi, I'm Neha! 👋🏼 👩🏽‍💻
 
-I'm an aspiring data analyst in Toronto ON, currently developing skills in Excel, VBA, Python, APIs, SQL, SQLAlchemy, HTML/CSS, Javascript, ETL, web scraping, Flask API, MongoDB, D3.js, Plotly.js, Tableau, Machine Learning and Big Data at University of Toronto’s Data Analytics bootcamp. 
+I'm an aspiring data analyst in Toronto ON, skilled in Excel, VBA, Python, APIs, SQL, SQLAlchemy, HTML/CSS, Javascript, ETL, web scraping, Flask API, MongoDB, D3.js, Plotly.js, Tableau, Machine Learning and Big Data trained at University of Toronto’s Data Analytics bootcamp. 
 
 Out of all of these tools, I love working with Javascript, Python and Flask APIs.
 
